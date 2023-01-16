@@ -1,0 +1,19 @@
+{
+  "name": "02-desafio-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  }
+}
